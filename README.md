@@ -6,4 +6,4 @@ How to run programm
 go run main.go
 ```
 ** Result **
-![image.png](https://i.postimg.cc/KvHVzLYc/image.png)](https://postimg.cc/kBWwY28L)
+![image.png](https://i.postimg.cc/KvHVzLYc/image.png)]
