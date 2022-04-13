@@ -1,11 +1,11 @@
 #  Technical test. Go internship
 
-How to run programm
+How to run program
 
 ```bash
 go run main.go
 ```
-** Result **
+Result: 
 
 ##
 ![image.png](https://i.postimg.cc/KvHVzLYc/image.png)]
